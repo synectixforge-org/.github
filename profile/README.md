@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome to SynectixForge Org
+![e](https://github.com/synectixforge-org/.github/blob/main/profile/download%20(1).gif)
 <!--
 
 **Here are some ideas to get you started:**
