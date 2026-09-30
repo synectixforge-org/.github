@@ -1,4 +1,4 @@
-## Welcome to SynectixForge Org
+## Welcome to SynectixForge Org | Silicon Nexus - Circuits & Code
 ![e](https://github.com/synectixforge-org/.github/blob/main/profile/download%20(1).gif)
 <!--
 
